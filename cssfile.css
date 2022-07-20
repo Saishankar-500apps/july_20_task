@@ -1,0 +1,13 @@
+div {
+    text-align:center;
+    padding:10px;
+} 
+.btn1 {
+    background-color:blue;
+    margin:10px;
+    height:32px;
+    width:130px;
+    border-radius: 5px;
+    color:antiquewhite;
+    border-color:antiquewhite;
+}
